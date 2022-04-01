@@ -1,0 +1,72 @@
+[AFK]
+    - whitelist/blacklist
+
+[APPEAL]
+
+[BONK]
+
+[BumpPing]
+    - Fix
+
+[DEMOTE]
+    - Fix undemote giving all roles
+    - Fuzzy Role
+
+[DOCS]
+[DROP]
+[ERRORS]
+[EVENTS]
+    - move tag to TAGS
+
+[GIVEAWAYS]
+    - move tag to TAGS
+    - Hosting
+    - Giveaway Manager Statistics
+    - Entry System
+    - /giveaway payed out giveawy_id
+    - /giveaway list - active giveaways of Manager
+
+[LOCKDOWN]
+    - Make
+
+[MessageLB]
+    - Ephemeral Response
+    - Embed for minimalistic data?
+    - zfill the numbers, beautify.
+    - FILL null data with 0?
+    - Proper `Resets at` for all timezones and time periods
+    - command to force announce in given channel
+    - Auto Role
+    - Auto Giveaway
+
+[OWNER]
+    - Tasks Loop Restart
+
+[SELFROLES]
+
+[ServerGuardian]
+    - Ping on role
+
+[SOTD]
+    - why no slash
+
+[StaffWork]
+    - Make
+
+[TRADES]
+    - MiddleMan Command
+
+[UTILS]
+
+[VOTE]
+    - Tracking
+    - Rewards
+
+[TAGS]
+    - aulus
+    - carl
+    - dyno
+    - atlas
+
+[AR]
+    - make
